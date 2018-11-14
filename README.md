@@ -3,7 +3,7 @@ Small webapp that manage books in a library, also had user authentication via JW
 Backend: NodeJS 
 Frontend: React
 
-Server dependences:
+Server side dependences:
   - Express
   - Express-validator
   - jsonwebtoken
